@@ -79,7 +79,7 @@ The tuned Gradient Boosting model achieved a test ROC-AUC of approximately 0.841
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/krishihuang/Customer-Churn-Prediction.git
 cd "Customer Churn Prediction"
 ```
 
